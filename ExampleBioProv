@@ -1,0 +1,65 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix dbpedia: <http://dbpedia.org/ontology/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix sf: <http://www.opengis.net/ont/sf#> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix : <http://java.icmc.usp.br/stbiodata/>.
+:Iniageoffrensis
+a prov:Entity, sioc:Post;
+   prov:hadMember       :Animalia;
+   prov:wasAttributedTo :CollectorAgent;
+   prov:wasAttributedTo :CataloguerAgent;
+   prov:wasGeneratedBy  :Collecting;
+   prov:wasGeneratedBy  :Cataloguing;
+   prov:atLocation      :Location;
+.
+:Animalia
+a prov:Entity;
+foaf:givenName  "Animalia86664";
+prov:actedOnBehalfOf :InstitutionAgent;
+.
+:CollectorAgent
+a prov:Agent;
+foaf:givenName       "M.C.Marino";
+prov:actedOnBehalfOf :InstitutionAgent;
+.
+:CataloguerAgent
+a prov:Agent;
+foaf:givenName       "Blainville";
+prov:actedOnBehalfOf :InstitutionAgent;
+.
+:InstitutionAgent
+a foaf:Organization, prov:Agent;
+foaf:name "INPA";
+.
+:Collecting
+a prov:Activity; 
+prov:wasAssociatedWith :CollectorAgent;
+prov:atTime    "1976-10-15T01:01:01Z"^^xsd:dateTime;
+.
+
+:Cataloguing
+a prov:Activity;
+prov:wasAssociatedWith :CataloguerAgent;
+prov:atTime    "1817-01-01T01:01:01Z"^^xsd:dateTime;
+.
+
+:Location
+a prov:Entity; 
+foaf:name "Amazon River";  
+prov:wasGeneratedBy :CollectorAgent;
+prov:wasAttributedTo :Iniageoffrensis;
+prov:qualifiedGeneration [
+      a prov:Generation;
+      prov:activity geo:feature;
+      prov:atTime     "2011-11-11T01:01:01Z"^^xsd:dateTime; 
+prov:atLocation "POINT((-55.126648	-2.163106))"^^geo:wktLiteral;
+];
