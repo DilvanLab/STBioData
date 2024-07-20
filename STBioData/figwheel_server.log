@@ -1,0 +1,1067 @@
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.036 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.133 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.454 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.937 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.457 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.839 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.409 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.561 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.923 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.41 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.442 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.353 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.386 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.695 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.485 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.357 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.7 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.765 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.365 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.731 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.376 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[31mFailed to compile "public/js/app.js" in 1.327 seconds.[0m
+[36m----  Could not Analyze  src/geobio2/core.cljs   line:731  column:174  ----[0m
+
+  [1mUnknown dot form of (. (.-defaultValue (.getElementById js/document "end-date") "") -value ("")) with classification [:cljs.analyzer/expr :cljs.analyzer/property :cljs.analyzer/expr][0m
+
+  [36m729[0m  [36m[:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m730[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m731[0m  [1m                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "end-date") (.-defaultValue "") (.-value "") )) }]] ][0m
+  [0m   [0m  [33m                                                                                                                             ^--- Unknown dot form of (. (.-defaultValue (.getElementById js/document "end-date") "") -value ("")) with classification [:cljs.analyzer/expr :cljs.analyzer/property :cljs.analyzer/expr][0m
+  [36m732[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m733[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m734[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+
+[36m----  Analysis Error : Please see src/geobio2/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[31mFailed to compile "public/js/app.js" in 1.04 seconds.[0m
+[36m----  Could not Analyze  src/geobio2/core.cljs   line:731  column:154  ----[0m
+
+  [1mset! target must be a field or a symbol naming a var at line 731 src/geobio2/core.cljs[0m
+
+  [36m729[0m  [36m[:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m730[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m731[0m  [1m                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "end-date") (set! (.-defaultValue) "") (set! (.-value) "") )) }]] ][0m
+  [0m   [0m  [33m                                                                                                         ^--- set! target must be a field or a symbol naming a var at line 731 src/geobio2/core.cljs[0m
+  [36m732[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m733[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m734[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+
+[36m----  Analysis Error : Please see src/geobio2/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[31mFailed to compile "public/js/app.js" in 1.16 seconds.[0m
+[36m----  Could not Analyze  src/geobio2/core.cljs   line:731  column:154  ----[0m
+
+  [1mset! target must be a field or a symbol naming a var at line 731 src/geobio2/core.cljs[0m
+
+  [36m729[0m  [36m[:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m730[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m731[0m  [1m                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "end-date") (set! (.-defaultValue) "") (set! (.-value) "") )) }]] ][0m
+  [0m   [0m  [33m                                                                                                         ^--- set! target must be a field or a symbol naming a var at line 731 src/geobio2/core.cljs[0m
+  [36m732[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m733[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m734[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+
+[36m----  Analysis Error : Please see src/geobio2/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.318 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.369 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.699 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.655 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.407 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:731  column:110  ----[0m
+
+  [1mUse of undeclared Var reagent.core/status[0m
+
+  [36m727[0m  [36m                                    [rui/date-picker {:id "start-date" :placeholder "Start date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m728[0m  [36m                                                      :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m729[0m  [36m                                  [:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m730[0m  [36m                                    [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m731[0m  [1m                                                      :cancelLabel "Clear" :onDismiss (fn [e] (reagent/status e) (let [elem (.getElementById js/document "end-date")] (set! (.-defaultValue elem) "") (set! (.-value elem) "") )) }]] ][0m
+  [0m   [0m  [33m                                                                                               ^--- Use of undeclared Var reagent.core/status[0m
+  [36m732[0m  [36m                                  [:div {:style {:top "10px"}}[0m
+  [36m733[0m  [36m                                    [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m734[0m  [36m                                    [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m735[0m  [36m                                    ] ]][0m
+  [36m736[0m  [36m]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.454 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.439 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.414 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:731  column:110  ----[0m
+
+  [1mUse of undeclared Var reagent.core/status[0m
+
+  [36m727[0m  [36m                                    [rui/date-picker {:id "start-date" :placeholder "Start date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m728[0m  [36m                                                      :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m729[0m  [36m                                  [:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m730[0m  [36m                                    [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m731[0m  [1m                                                      :cancelLabel "Clear" :onDismiss (fn [e] (reagent/status e) (let [elem (.getElementById js/document "end-date")] (set! (.-defaultValue elem) "") (set! (.-value elem) "") )) }]] ][0m
+  [0m   [0m  [33m                                                                                               ^--- Use of undeclared Var reagent.core/status[0m
+  [36m732[0m  [36m                                  [:div {:style {:top "10px"}}[0m
+  [36m733[0m  [36m                                    [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m734[0m  [36m                                    [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m735[0m  [36m                                    ] ]][0m
+  [36m736[0m  [36m]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.507 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.525 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:731  column:131  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/js[0m
+
+  [36m727[0m  [36m                                    [rui/date-picker {:id "start-date" :placeholder "Start date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m728[0m  [36m                                                      :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m729[0m  [36m                                  [:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m730[0m  [36m                                    [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m731[0m  [1m                                                      :cancelLabel "Clear" :onDismiss (fn [e] (reagent/state (.this js)) (let [elem (.getElementById js/document "end-date")] (set! (.-defaultValue elem) "") (set! (.-value elem) "") )) }]] ][0m
+  [0m   [0m  [33m                                                                                                                    ^--- Use of undeclared Var geobio2.core/js[0m
+  [36m732[0m  [36m                                  [:div {:style {:top "10px"}}[0m
+  [36m733[0m  [36m                                    [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m734[0m  [36m                                    [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m735[0m  [36m                                    ] ]][0m
+  [36m736[0m  [36m]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.512 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.793 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.677 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.547 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.538 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[31mFailed to compile "public/js/app.js" in 1.029 seconds.[0m
+[36m----  Could not Read  src/geobio2/core.cljs   line:737  column:132  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m735[0m  [36m                                                [:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m736[0m  [36m                                                  (let [end-date (reagent/as-element [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m737[0m  [1m                                                                    :cancelLabel "Clear" :onDismiss (fn [] (clearDate end-date) ) ) }]) ] end-date)[0m
+  [0m   [0m  [33m                                                                                                                                   ^--- Unmatched delimiter )[0m
+  [36m738[0m  [36m[0m
+  [36m739[0m  [36m                                                  ] ][0m
+  [36m740[0m  [36m                                                [:div {:style {:top "10px"}}[0m
+
+[36m----  Reader Error : Please see src/geobio2/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:737  column:119  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/end-date[0m
+
+  [36m733[0m  [36m                                                  [rui/date-picker {:id "start-date" :placeholder "Start date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m734[0m  [36m                                                                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m735[0m  [36m                                                [:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m736[0m  [36m                                                  (let [end-date (reagent/as-element [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m737[0m  [1m                                                                    :cancelLabel "Clear" :onDismiss (fn [] (clearDate end-date) )  }]) ] end-date)[0m
+  [0m   [0m  [33m                                                                                                                      ^--- Use of undeclared Var geobio2.core/end-date[0m
+  [36m738[0m  [36m[0m
+  [36m739[0m  [36m                                                  ] ][0m
+  [36m740[0m  [36m                                                [:div {:style {:top "10px"}}[0m
+  [36m741[0m  [36m                                                  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m742[0m  [36m                                                  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.693 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:737  column:112  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/end-date[0m
+
+  [36m733[0m  [36m                                                  [rui/date-picker {:id "start-date" :placeholder "Start date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m734[0m  [36m                                                                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m735[0m  [36m                                                [:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m736[0m  [36m                                                  (let [end-date (reagent/as-element [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m737[0m  [1m                                                                    :cancelLabel "Clear" :onDismiss (clearDate end-date)  }]) ] end-date)[0m
+  [0m   [0m  [33m                                                                                                               ^--- Use of undeclared Var geobio2.core/end-date[0m
+  [36m738[0m  [36m[0m
+  [36m739[0m  [36m                                                  ] ][0m
+  [36m740[0m  [36m                                                [:div {:style {:top "10px"}}[0m
+  [36m741[0m  [36m                                                  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m742[0m  [36m                                                  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.495 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.69 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.252 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.132 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.357 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.284 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.355 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.535 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.567 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:790  column:24  ----[0m
+
+  [1mNo such namespace: regent, could not locate regent.cljs, regent.cljc, or Closure namespace ""[0m
+
+  [36m786[0m  [36m              ]][0m
+  [36m787[0m  [36m          ][0m
+  [36m788[0m  [36m        ][0m
+  [36m789[0m  [36m      ])[0m
+  [33m790[0m  [1m      (js/console.log (regent/state endDatePicker)))[0m
+  [0m   [0m  [33m                       ^--- No such namespace: regent, could not locate regent.cljs, regent.cljc, or Closure namespace ""[0m
+  [36m791[0m  [36m[0m
+  [36m792[0m  [36m;; -------------------------[0m
+  [36m793[0m  [36m;; Initialize app[0m
+  [36m794[0m  [36m[0m
+  [36m795[0m  [36m(defn mount-root [][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:790  column:24  ----[0m
+
+  [1mUse of undeclared Var regent/state[0m
+
+  [36m786[0m  [36m              ]][0m
+  [36m787[0m  [36m          ][0m
+  [36m788[0m  [36m        ][0m
+  [36m789[0m  [36m      ])[0m
+  [33m790[0m  [1m      (js/console.log (regent/state endDatePicker)))[0m
+  [0m   [0m  [33m                       ^--- Use of undeclared Var regent/state[0m
+  [36m791[0m  [36m[0m
+  [36m792[0m  [36m;; -------------------------[0m
+  [36m793[0m  [36m;; Initialize app[0m
+  [36m794[0m  [36m[0m
+  [36m795[0m  [36m(defn mount-root [][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.756 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 3.267 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.84 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.92 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.953 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.637 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[31mFailed to compile "public/js/app.js" in 1.534 seconds.[0m
+[36m----  Could not Read  src/geobio2/core.cljs   line:744  column:124  ----[0m
+
+  [1mMap literal must contain an even number of forms[0m
+
+  [36m742[0m  [36m                    :onChange (fn [] (this-as this (.toTimeHandler this)))[0m
+  [36m743[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [][0m
+  [33m744[0m  [1m                      (this-as this (.toTimeHandler this #js {nil nil true}))) }]] ][0m
+  [0m   [0m  [33m                                                                           ^--- Map literal must contain an even number of forms[0m
+  [36m745[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m746[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m747[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+
+[36m----  Reader Error : Please see src/geobio2/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[31mFailed to compile "public/js/app.js" in 1.075 seconds.[0m
+[36m----  Could not Read  src/geobio2/core.cljs   line:744  column:115  ----[0m
+
+  [1mMap literal must contain an even number of forms[0m
+
+  [36m742[0m  [36m                    :onChange (fn [] (this-as this (.toTimeHandler this)))[0m
+  [36m743[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [][0m
+  [33m744[0m  [1m                      (this-as this (.toTimeHandler this #js {nil} #js {nil} true}))) }]] ][0m
+  [0m   [0m  [33m                                                                  ^--- Map literal must contain an even number of forms[0m
+  [36m745[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m746[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m747[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+
+[36m----  Reader Error : Please see src/geobio2/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:744  column:106  ----[0m
+
+  [1mWrong number of args (3) passed to cljs.core/clj->js[0m
+
+  [36m740[0m  [36m                                  [:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m741[0m  [36m                                    [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m742[0m  [36m                                                      :onChange (fn [] (this-as this (.toTimeHandler this)))[0m
+  [36m743[0m  [36m                                                      :cancelLabel "Clear" :onDismiss (fn [][0m
+  [33m744[0m  [1m                                                        (this-as this (.toTimeHandler this (clj->js nil nil true)))) }]] ][0m
+  [0m   [0m  [33m                                                                                           ^--- Wrong number of args (3) passed to cljs.core/clj->js[0m
+  [36m745[0m  [36m                                  [:div {:style {:top "10px"}}[0m
+  [36m746[0m  [36m                                    [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m747[0m  [36m                                    [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m748[0m  [36m                                    ] ]][0m
+  [36m749[0m  [36m]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.444 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[31mFailed to compile "public/js/app.js" in 1.053 seconds.[0m
+[36m----  Could not Read  src/geobio2/core.cljs   line:744  column:142  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m742[0m  [36m                    :onChange (fn [] (this-as this (.toTimeHandler this)))[0m
+  [36m743[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [][0m
+  [33m744[0m  [1m                      (this-as this (.toTimeHandler this (clj->js nil) (clj->js nil) true)))) }]] ][0m
+  [0m   [0m  [33m                                                                                             ^--- Unmatched delimiter )[0m
+  [36m745[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m746[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m747[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+
+[36m----  Reader Error : Please see src/geobio2/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.386 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.601 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:731  column:87  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/as-this[0m
+
+  [36m727[0m  [36m  [rui/date-picker {:id "start-date" :placeholder "Start date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m728[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m729[0m  [36m[:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m730[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m731[0m  [1m                    :onChange (fn [] (as-this this (js/console.log this)) )[0m
+  [0m   [0m  [33m                                      ^--- Use of undeclared Var geobio2.core/as-this[0m
+  [36m732[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [e] (let [elem (.getElementById js/document "end-date")] (set! (.-defaultValue elem) "") (set! (.-value elem) "") )) }]] ][0m
+  [36m733[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m734[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m735[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m736[0m  [36m  ] ]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:731  column:95  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/this[0m
+
+  [36m727[0m  [36m  [rui/date-picker {:id "start-date" :placeholder "Start date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m728[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m729[0m  [36m[:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m730[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m731[0m  [1m                    :onChange (fn [] (as-this this (js/console.log this)) )[0m
+  [0m   [0m  [33m                                              ^--- Use of undeclared Var geobio2.core/this[0m
+  [36m732[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [e] (let [elem (.getElementById js/document "end-date")] (set! (.-defaultValue elem) "") (set! (.-value elem) "") )) }]] ][0m
+  [36m733[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m734[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m735[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m736[0m  [36m  ] ]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:731  column:116  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/this[0m
+
+  [36m727[0m  [36m  [rui/date-picker {:id "start-date" :placeholder "Start date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m728[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m729[0m  [36m[:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m730[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m731[0m  [1m                    :onChange (fn [] (as-this this (js/console.log this)) )[0m
+  [0m   [0m  [33m                                                                   ^--- Use of undeclared Var geobio2.core/this[0m
+  [36m732[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [e] (let [elem (.getElementById js/document "end-date")] (set! (.-defaultValue elem) "") (set! (.-value elem) "") )) }]] ][0m
+  [36m733[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m734[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m735[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m736[0m  [36m  ] ]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.424 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 3.021 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.685 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.184 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.657 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.538 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.775 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.642 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.425 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[31mFailed to compile "public/js/app.js" in 1.295 seconds.[0m
+[36m----  Could not Read  src/geobio2/core.cljs   line:732  column:223  ----[0m
+
+  [1mMap literal must contain an even number of forms[0m
+
+  [36m730[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m731[0m  [36m                    :value[0m
+  [33m732[0m  [1m                    :cancelLabel "Clear" :onDismiss (fn [e] (let [elem (.getElementById js/document "end-date")] (set! (.-defaultValue elem) "") (set! (.-value elem) "") )) }]] ][0m
+  [0m   [0m  [33m                                                                                                                                                                              ^--- Map literal must contain an even number of forms[0m
+  [36m733[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m734[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m735[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+
+[36m----  Reader Error : Please see src/geobio2/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.61 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.755 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.339 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.75 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.41 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.675 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.785 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.867 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.596 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.574 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.422 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:711  column:15  ----[0m
+
+  [1mWrong number of args (0) passed to reagent.core/atom[0m
+
+  [36m709[0m  [36m;; -------------------------[0m
+  [36m710[0m  [36m;; Views[0m
+  [33m711[0m  [1m(def end-date (atom ))[0m
+  [0m   [0m  [33m              ^--- Wrong number of args (0) passed to reagent.core/atom[0m
+  [36m712[0m  [36m(defn home-page [][0m
+  [36m713[0m  [36m  (menu [:div[0m
+  [36m714[0m  [36m        [:div {:class "row" :style {:margin-right "0px" :margin-left "0px"}}[0m
+  [36m715[0m  [36m          [:div {:class "col-xs-12 col-sm-12 col-md-4 col-lg-4" }[0m
+  [36m716[0m  [36m            [rui/mui-theme-provider {:mui-theme (get-mui-theme)}[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:733  column:116  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/testDate[0m
+
+  [36m729[0m  [36m                                  [:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m730[0m  [36m                                    [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m731[0m  [36m                                                      :value @testDate[0m
+  [36m732[0m  [36m                                                      :onChange (fn [null date] (reset! testDate date))[0m
+  [33m733[0m  [1m                                                      :cancelLabel "Clear" :onDismiss (fn [] (reset! testDate "") ) }]] ][0m
+  [0m   [0m  [33m                                                                                                     ^--- Use of undeclared Var geobio2.core/testDate[0m
+  [36m734[0m  [36m                                  [:div {:style {:top "10px"}}[0m
+  [36m735[0m  [36m                                    [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m736[0m  [36m                                    [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m737[0m  [36m                                    ] ]][0m
+  [36m738[0m  [36m]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:731  column:77  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/testDate[0m
+
+  [36m727[0m  [36m  [rui/date-picker {:id "start-date" :placeholder "Start date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m728[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m729[0m  [36m[:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m730[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m731[0m  [1m                    :value @testDate[0m
+  [0m   [0m  [33m                            ^--- Use of undeclared Var geobio2.core/testDate[0m
+  [36m732[0m  [36m                    :onChange (fn [null date] (reset! testDate date))[0m
+  [36m733[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [] (reset! testDate "") ) }]] ][0m
+  [36m734[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m735[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m736[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:732  column:103  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/testDate[0m
+
+  [36m728[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m729[0m  [36m[:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m730[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m731[0m  [36m                    :value @testDate[0m
+  [33m732[0m  [1m                    :onChange (fn [null date] (reset! testDate date))[0m
+  [0m   [0m  [33m                                                      ^--- Use of undeclared Var geobio2.core/testDate[0m
+  [36m733[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [] (reset! testDate "") ) }]] ][0m
+  [36m734[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m735[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m736[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m737[0m  [36m  ] ]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.246 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:29  column:23  ----[0m
+
+  [1mWrong number of args (0) passed to reagent.core/atom[0m
+
+  [36m25[0m  [36m(def progress (atom "hidden"))[0m
+  [36m26[0m  [36m(def progress-data-sets (atom "inline-block"))[0m
+  [36m27[0m  [36m(def progress-country (atom "inline-block"))[0m
+  [36m28[0m  [36m(def progress-years (atom "inline-block"))[0m
+  [33m29[0m  [1m(def start-datePicker (atom ))[0m
+  [0m  [0m  [33m                      ^--- Wrong number of args (0) passed to reagent.core/atom[0m
+  [36m30[0m  [36m(def end-datePicker (atom ))[0m
+  [36m31[0m  [36m(def caseTitle (atom (str "Map")))[0m
+  [36m32[0m  [36m(def caseQuery (atom () ))[0m
+  [36m33[0m  [36m(def data-table (atom ()))[0m
+  [36m34[0m  [36m(def prov (atom {:scientificName "" :code "" :institutionCode "" :dateCollected "" :nameColleted "" :dateCataloguing "" :nameCataloguing ""}))[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:30  column:21  ----[0m
+
+  [1mWrong number of args (0) passed to reagent.core/atom[0m
+
+  [36m26[0m  [36m(def progress-data-sets (atom "inline-block"))[0m
+  [36m27[0m  [36m(def progress-country (atom "inline-block"))[0m
+  [36m28[0m  [36m(def progress-years (atom "inline-block"))[0m
+  [36m29[0m  [36m(def start-datePicker (atom ))[0m
+  [33m30[0m  [1m(def end-datePicker (atom ))[0m
+  [0m  [0m  [33m                    ^--- Wrong number of args (0) passed to reagent.core/atom[0m
+  [36m31[0m  [36m(def caseTitle (atom (str "Map")))[0m
+  [36m32[0m  [36m(def caseQuery (atom () ))[0m
+  [36m33[0m  [36m(def data-table (atom ()))[0m
+  [36m34[0m  [36m(def prov (atom {:scientificName "" :code "" :institutionCode "" :dateCollected "" :nameColleted "" :dateCataloguing "" :nameCataloguing ""}))[0m
+  [36m35[0m  [36m(def endpoint "http://java.icmc.usp.br:2190/repositories/bio")[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:735  column:116  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/testDate[0m
+
+  [36m731[0m  [36m                                  [:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m732[0m  [36m                                    [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m733[0m  [36m                                                      :value @testDate[0m
+  [36m734[0m  [36m                                                      :onChange (fn [null date] (reset! testDate date))[0m
+  [33m735[0m  [1m                                                      :cancelLabel "Clear" :onDismiss (fn [] (reset! testDate "") ) }]] ][0m
+  [0m   [0m  [33m                                                                                                     ^--- Use of undeclared Var geobio2.core/testDate[0m
+  [36m736[0m  [36m                                  [:div {:style {:top "10px"}}[0m
+  [36m737[0m  [36m                                    [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m738[0m  [36m                                    [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m739[0m  [36m                                    ] ]][0m
+  [36m740[0m  [36m]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:733  column:77  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/testDate[0m
+
+  [36m729[0m  [36m  [rui/date-picker {:id "start-date" :placeholder "Start date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m730[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m731[0m  [36m[:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m732[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m733[0m  [1m                    :value @testDate[0m
+  [0m   [0m  [33m                            ^--- Use of undeclared Var geobio2.core/testDate[0m
+  [36m734[0m  [36m                    :onChange (fn [null date] (reset! testDate date))[0m
+  [36m735[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [] (reset! testDate "") ) }]] ][0m
+  [36m736[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m737[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m738[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:734  column:103  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/testDate[0m
+
+  [36m730[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m731[0m  [36m[:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m732[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m733[0m  [36m                    :value @testDate[0m
+  [33m734[0m  [1m                    :onChange (fn [null date] (reset! testDate date))[0m
+  [0m   [0m  [33m                                                      ^--- Use of undeclared Var geobio2.core/testDate[0m
+  [36m735[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [] (reset! testDate "") ) }]] ][0m
+  [36m736[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m737[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m738[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m739[0m  [36m  ] ]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.164 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:24  column:23  ----[0m
+
+  [1mWrong number of args (0) passed to reagent.core/atom[0m
+
+  [36m20[0m  [36m(def user-position (atom ()))[0m
+  [36m21[0m  [36m(def csv-file (atom nil) )[0m
+  [36m22[0m  [36m(def rdf-describe (atom nil) )[0m
+  [36m23[0m  [36m(def species-list (atom ()))[0m
+  [33m24[0m  [1m(def start-datePicker (atom ))[0m
+  [0m  [0m  [33m                      ^--- Wrong number of args (0) passed to reagent.core/atom[0m
+  [36m25[0m  [36m(def end-datePicker (atom ))[0m
+  [36m26[0m  [36m(def stat (atom ()))[0m
+  [36m27[0m  [36m(def progress (atom "hidden"))[0m
+  [36m28[0m  [36m(def progress-data-sets (atom "inline-block"))[0m
+  [36m29[0m  [36m(def progress-country (atom "inline-block"))[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:25  column:21  ----[0m
+
+  [1mWrong number of args (0) passed to reagent.core/atom[0m
+
+  [36m21[0m  [36m(def csv-file (atom nil) )[0m
+  [36m22[0m  [36m(def rdf-describe (atom nil) )[0m
+  [36m23[0m  [36m(def species-list (atom ()))[0m
+  [36m24[0m  [36m(def start-datePicker (atom ))[0m
+  [33m25[0m  [1m(def end-datePicker (atom ))[0m
+  [0m  [0m  [33m                    ^--- Wrong number of args (0) passed to reagent.core/atom[0m
+  [36m26[0m  [36m(def stat (atom ()))[0m
+  [36m27[0m  [36m(def progress (atom "hidden"))[0m
+  [36m28[0m  [36m(def progress-data-sets (atom "inline-block"))[0m
+  [36m29[0m  [36m(def progress-country (atom "inline-block"))[0m
+  [36m30[0m  [36m(def progress-years (atom "inline-block"))[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:735  column:116  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/testDate[0m
+
+  [36m731[0m  [36m                                  [:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m732[0m  [36m                                    [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m733[0m  [36m                                                      :value @testDate[0m
+  [36m734[0m  [36m                                                      :onChange (fn [null date] (reset! testDate date))[0m
+  [33m735[0m  [1m                                                      :cancelLabel "Clear" :onDismiss (fn [] (reset! testDate "") ) }]] ][0m
+  [0m   [0m  [33m                                                                                                     ^--- Use of undeclared Var geobio2.core/testDate[0m
+  [36m736[0m  [36m                                  [:div {:style {:top "10px"}}[0m
+  [36m737[0m  [36m                                    [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m738[0m  [36m                                    [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m739[0m  [36m                                    ] ]][0m
+  [36m740[0m  [36m]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:733  column:77  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/testDate[0m
+
+  [36m729[0m  [36m  [rui/date-picker {:id "start-date" :placeholder "Start date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m730[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m731[0m  [36m[:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m732[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [33m733[0m  [1m                    :value @testDate[0m
+  [0m   [0m  [33m                            ^--- Use of undeclared Var geobio2.core/testDate[0m
+  [36m734[0m  [36m                    :onChange (fn [null date] (reset! testDate date))[0m
+  [36m735[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [] (reset! testDate "") ) }]] ][0m
+  [36m736[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m737[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m738[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:734  column:103  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/testDate[0m
+
+  [36m730[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [e] (-> (.getElementById js/document "start-date") (aset "defaultValue" "") (aset "value" "") )) }]][0m
+  [36m731[0m  [36m[:div {:class "col-xs-6" :style {:overflow "hidden"}}[0m
+  [36m732[0m  [36m  [rui/date-picker {:id "end-date" :placeholder "End date" :textFieldStyle {:max-width "100%"} :container "inline" :autoOk true :maxDate (time/now) :minDate (time/date-time 1750 1 1)[0m
+  [36m733[0m  [36m                    :value @testDate[0m
+  [33m734[0m  [1m                    :onChange (fn [null date] (reset! testDate date))[0m
+  [0m   [0m  [33m                                                      ^--- Use of undeclared Var geobio2.core/testDate[0m
+  [36m735[0m  [36m                    :cancelLabel "Clear" :onDismiss (fn [] (reset! testDate "") ) }]] ][0m
+  [36m736[0m  [36m[:div {:style {:top "10px"}}[0m
+  [36m737[0m  [36m  [rui/raised-button {:label "Submit" :label-position "before" :icon (ic/action-search) :label-color (color :white) :background-color (color :brown400) :on-click (fn [e] (filter-query)) }][0m
+  [36m738[0m  [36m  [rui/circular-progress {:size 30 :style {:top "10px" :left "10px" :visibility @progress}}][0m
+  [36m739[0m  [36m  ] ]][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.325 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:24  column:23  ----[0m
+
+  [1mWrong number of args (0) passed to reagent.core/atom[0m
+
+  [36m20[0m  [36m(def user-position (atom ()))[0m
+  [36m21[0m  [36m(def csv-file (atom nil) )[0m
+  [36m22[0m  [36m(def rdf-describe (atom nil) )[0m
+  [36m23[0m  [36m(def species-list (atom ()))[0m
+  [33m24[0m  [1m(def start-datePicker (atom ))[0m
+  [0m  [0m  [33m                      ^--- Wrong number of args (0) passed to reagent.core/atom[0m
+  [36m25[0m  [36m(def end-datePicker (atom ))[0m
+  [36m26[0m  [36m(def stat (atom ()))[0m
+  [36m27[0m  [36m(def progress (atom "hidden"))[0m
+  [36m28[0m  [36m(def progress-data-sets (atom "inline-block"))[0m
+  [36m29[0m  [36m(def progress-country (atom "inline-block"))[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:25  column:21  ----[0m
+
+  [1mWrong number of args (0) passed to reagent.core/atom[0m
+
+  [36m21[0m  [36m(def csv-file (atom nil) )[0m
+  [36m22[0m  [36m(def rdf-describe (atom nil) )[0m
+  [36m23[0m  [36m(def species-list (atom ()))[0m
+  [36m24[0m  [36m(def start-datePicker (atom ))[0m
+  [33m25[0m  [1m(def end-datePicker (atom ))[0m
+  [0m  [0m  [33m                    ^--- Wrong number of args (0) passed to reagent.core/atom[0m
+  [36m26[0m  [36m(def stat (atom ()))[0m
+  [36m27[0m  [36m(def progress (atom "hidden"))[0m
+  [36m28[0m  [36m(def progress-data-sets (atom "inline-block"))[0m
+  [36m29[0m  [36m(def progress-country (atom "inline-block"))[0m
+  [36m30[0m  [36m(def progress-years (atom "inline-block"))[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.155 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.481 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.707 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.994 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.665 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.765 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.462 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.429 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.778 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.923 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.962 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 3.557 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:73  column:35  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/this[0m
+
+  [36m70[0m  [36m;; Execute after mount map[0m
+  [36m71[0m  [36m(defn home-did-mount [this])[0m
+  [36m72[0m  [36m ;; Put "this node" into map-canvas[0m
+  [33m73[0m  [1m(def map-canvas (reagent/dom-node this))[0m
+  [0m  [0m  [33m                                  ^--- Use of undeclared Var geobio2.core/this[0m
+  [36m74[0m  [36m[0m
+  [36m75[0m  [36m ;; Gmaps config[0m
+  [36m76[0m  [36m(def map-options (clj->js {"center" (js/google.maps.LatLng. -15.794410 -47.877821)[0m
+  [36m77[0m  [36m                           "zoom" 4}))[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 4.675 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:73  column:35  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/this[0m
+
+  [36m70[0m  [36m;; Execute after mount map[0m
+  [36m71[0m  [36m(defn home-did-mount [this])[0m
+  [36m72[0m  [36m ;; Put "this node" into map-canvas[0m
+  [33m73[0m  [1m(def map-canvas (reagent/dom-node this))[0m
+  [0m  [0m  [33m                                  ^--- Use of undeclared Var geobio2.core/this[0m
+  [36m74[0m  [36m[0m
+  [36m75[0m  [36m ;; Gmaps config[0m
+  [36m76[0m  [36m(def map-options (clj->js {"center" (js/google.maps.LatLng. -15.794410 -47.877821)[0m
+  [36m77[0m  [36m                           "zoom" 4}))[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 4.433 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.764 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.711 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:73  column:35  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/this[0m
+
+  [36m69[0m  [36m;; Execute after mount map[0m
+  [36m70[0m  [36m(defn home-did-mount [this])[0m
+  [36m71[0m  [36m[0m
+  [36m72[0m  [36m;; Put "this node" into map-canvas[0m
+  [33m73[0m  [1m(def map-canvas (reagent/dom-node this))[0m
+  [0m  [0m  [33m                                  ^--- Use of undeclared Var geobio2.core/this[0m
+  [36m74[0m  [36m[0m
+  [36m75[0m  [36m;; Gmaps config[0m
+  [36m76[0m  [36m(def map-options (clj->js {"center" (js/google.maps.LatLng. -15.794410 -47.877821)[0m
+  [36m77[0m  [36m                           "zoom" 4}))[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 4.939 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:73  column:35  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/this[0m
+
+  [36m69[0m  [36m;; Execute after mount map[0m
+  [36m70[0m  [36m(defn home-did-mount [this])[0m
+  [36m71[0m  [36m[0m
+  [36m72[0m  [36m;; Put "this node" into map-canvas[0m
+  [33m73[0m  [1m(def map-canvas (reagent/dom-node this))[0m
+  [0m  [0m  [33m                                  ^--- Use of undeclared Var geobio2.core/this[0m
+  [36m74[0m  [36m[0m
+  [36m75[0m  [36m;; Gmaps config[0m
+  [36m76[0m  [36m(def map-options (clj->js {"center" (js/google.maps.LatLng. -15.794410 -47.877821)[0m
+  [36m77[0m  [36m                           "zoom" 4}))[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.375 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:73  column:35  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/this[0m
+
+  [36m69[0m  [36m;; Execute after mount map[0m
+  [36m70[0m  [36m(defn home-did-mount [this])[0m
+  [36m71[0m  [36m[0m
+  [36m72[0m  [36m;; Put "this node" into map-canvas[0m
+  [33m73[0m  [1m(def map-canvas (reagent/dom-node this))[0m
+  [0m  [0m  [33m                                  ^--- Use of undeclared Var geobio2.core/this[0m
+  [36m74[0m  [36m[0m
+  [36m75[0m  [36m;; Gmaps config[0m
+  [36m76[0m  [36m(def map-options (clj->js {"center" (js/google.maps.LatLng. -15.794410 -47.877821)[0m
+  [36m77[0m  [36m                           "zoom" 4}))[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.583 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[31mFailed to compile "public/js/app.js" in 0.467 seconds.[0m
+[36m----  Could not Read  src/geobio2/core.cljs   line:70  column:1  ----[0m
+
+  [1mEOF while reading, starting at line 70 and column 1[0m
+
+  [36m69[0m  [36m;; Execute after mount map[0m
+  [33m70[0m  [1m(defn home-did-mount [this][0m
+  [0m  [0m  [33m^--- EOF while reading, starting at line 70 and column 1[0m
+  [36m71[0m  [36m    [0m
+  [36m72[0m  [36m;; Put "this node" into map-canvas[0m
+  [36m73[0m  [36m(def map-canvas (reagent/dom-node this))[0m
+
+[36m----  Reader Error : Please see src/geobio2/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:151  column:40  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/options[0m
+
+  [36m147[0m  [36m                4 (js/google.visualization.GeoChart. container)[0m
+  [36m148[0m  [36m                5 (js/google.visualization.LineChart. container)[0m
+  [36m149[0m  [36m                6 (js/google.visualization.ScatterChart. container))][0m
+  [36m150[0m  [36m    (js/google.visualization.PieChart. container[0m
+  [33m151[0m  [1m                                       options (clj->js {:title title :region "005" :pieHole (if (= type 3) 0.4 0) :colorAxis {:colors [(color :amber300) (color :lime400) (color :light-green400) (color :green300)]} :chartArea {:left 10 :top 10 :width "100%" :height 160} :titleTextStyle {:fontSize 14}})[0m
+  [0m   [0m  [33m                                       ^--- Use of undeclared Var geobio2.core/options[0m
+  [36m152[0m  [36m                                       data-table (js/google.visualization.DataTable.))[0m
+  [36m153[0m  [36m[0m
+  [36m154[0m  [36m    (case type[0m
+  [36m155[0m  [36m      4 (doto data-table[0m
+  [36m156[0m  [36m          (.addColumn "string" "Country")[0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/geobio2/core.cljs   line:164  column:29  ----[0m
+
+  [1mUse of undeclared Var geobio2.core/options[0m
+
+  [36m160[0m  [36m        (.addColumn "string" "Topping")[0m
+  [36m161[0m  [36m        (.addColumn "number" "Slices")[0m
+  [36m162[0m  [36m        (.addRows (clj->js vec))))[0m
+  [36m163[0m  [36m[0m
+  [33m164[0m  [1m    (.draw chart data-table options)))[0m
+  [0m   [0m  [33m                            ^--- Use of undeclared Var geobio2.core/options[0m
+  [36m165[0m  [36m[0m
+  [36m166[0m  [36m(defn print-sparql "Print sparql query" [query] [:div (for [i (range (count query))] (if (= (get query i) "\n") (reagent/as-element [:br]) (get query i)))])[0m
+  [36m167[0m  [36m[0m
+  [36m168[0m  [36m;; Function to download csv file[0m
+  [36m169[0m  [36m(defn save-file [filename t s][0m
+
+[36m----  Compiler Warning : Please see src/geobio2/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.49 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.627 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.584 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.374 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.74 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.895 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/geobio2/table.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.003 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/table.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.893 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 2.124 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 1.581 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 4.264 seconds.[0m
+notifying browser that file changed:  public/js/out/geobio2/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.836 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/STBioData/table.js
+notifying browser that file changed:  public/js/out/STBioData/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[31mFailed to compile "public/js/app.js" in 0.527 seconds.[0m
+[36m----  Could not Analyze  src/stbiodata/core.cljs  ----[0m
+
+  [1mNo such namespace: geobio2.table, could not locate geobio2/table.cljs, geobio2/table.cljc, or Closure namespace "geobio2.table" [0m
+
+[36m----  Analysis Error : Please see src/stbiodata/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.995 seconds.[0m
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/stbiodata/core.js
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[31mFailed to compile "public/js/app.js" in 2.28 seconds.[0m
+[36m----  Could not Analyze  src/stbiodata/core.cljs  ----[0m
+
+  [1mNo such namespace: geobio2.table, could not locate geobio2/table.cljs, geobio2/table.cljc, or Closure namespace "geobio2.table" [0m
+
+[36m----  Analysis Error : Please see src/stbiodata/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[0mCompiling "public/js/app.js" from ["src" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.833 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/stbiodata/dev.js

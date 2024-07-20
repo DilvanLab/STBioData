@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="STBioData">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Extension STBioData Source Code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/STBioData Source Code.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

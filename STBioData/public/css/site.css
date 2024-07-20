@@ -1,0 +1,13 @@
+body{
+  background-color: #CFD8DC;
+}
+#app-bar{
+  margin-left: -0.5em;
+  margin-right: -0.5em;
+  margin-top: -0.5em;
+}
+#app-content{
+  padding-top: 0.5em;
+  background-color: #CFD8DC;
+  font-family: "Roboto"
+}

@@ -1,0 +1,2 @@
+(read-string "#'foo")
+(read-string "#'def")
